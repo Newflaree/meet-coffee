@@ -230,5 +230,32 @@ footer a {
   font-size: 10px;
 }
 /* Estilos Seccion Contacto */
-
 /* -------------------------------------------- */
+/* Estilos Seccion SimposioVeganDB */
+.simposio {
+  padding-top: 100px;
+  margin-left: 210px;
+  margin-right: 210px;
+}
+
+.simposio h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+.simposio img {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.simposio p {
+  margin-bottom: 20px;
+}
+
+.simposio h4 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+/* Estilos Seccion SimposioVeganDB */
