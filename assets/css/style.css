@@ -60,9 +60,7 @@ section {
   width: 50%;
 }
 /* Estilos Generales */
-
 /* -------------------------------------------- */
-
 /* Estilos Header */
 header {
   background-color: #000f08;
@@ -115,4 +113,29 @@ header .hero p {
 }
 /* Estilos Header */
 
+/* -------------------------------------------- */
+/* Estilos Seccion Ubicacion */
+.ubicacion {
+  margin: 40px;
+}
+
+.ubicacion .img {
+  margin-left: 350px;
+}
+
+.ubicacion .img img {
+  width: 350px;
+}
+
+.ubicacion .info h3 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.ubicacion .info p {
+  text-align: center;
+}
+/* Estilos Seccion Ubicacion */
 /* -------------------------------------------- */
