@@ -205,3 +205,30 @@ header .hero p {
 }
 /* Estilos Seccion EventosAnteriores */
 /* -------------------------------------------- */
+/* Estilos footer Contacto */
+footer {
+  background-color: #000f08;
+  padding: 30px;
+}
+
+footer .icons {
+  margin-left: 450px;
+  margin-bottom: 20px;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+}
+
+footer i {
+  color: white;
+}
+
+footer a {
+  margin: 10px;
+  font-size: 10px;
+}
+/* Estilos Seccion Contacto */
+
+/* -------------------------------------------- */
