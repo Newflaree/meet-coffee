@@ -139,3 +139,34 @@ header .hero p {
 }
 /* Estilos Seccion Ubicacion */
 /* -------------------------------------------- */
+/* Estilos Seccion ProximaCharla */
+.proxima-charla {
+  background-color: #a4452c;
+  padding: 70px;
+}
+
+.proxima-charla img {
+  margin-left: 280px;
+  width: 200px;
+}
+
+.proxima-charla .textos {
+  color: white;
+}
+
+.proxima-charla .textos h3 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.proxima-charla .textos p {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.proxima-charla .textos p {
+  font-size: 14px;
+  font-weight: 300;
+}
+/* Estilos Seccion ProximaCharla */
+/* -------------------------------------------- */
